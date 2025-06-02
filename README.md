@@ -1,3 +1,5 @@
+<h3>Set up routes, manage errors, utilize request and path parameters, validate data using Pydantic models, structure responses, and explore the interactive API documentation.</h3>
+
 To Run the application, 
    `uvicorn main:app --reload`
 
