@@ -21,6 +21,6 @@ old >> curl -X POST -H "Content-Type: application/json" 'http://127.0.0.1:8000/i
 
    `curl -X GET http://127.0.0.1:8000/items`
 
-* if feel `curl` hard, go for Intractive documentaion (Swagger) :
+<h4> if feel `curl` hard, go for Intractive documentaion (Swagger) :</h4>
 
    `http://127.0.0.1:8000/docs#` or `redoc`
