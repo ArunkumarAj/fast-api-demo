@@ -5,7 +5,7 @@ To Run the application,
 
 old >> curl -X POST -H "Content-Type: application/json" 'http://127.0.0.1:8000/items?item=apple'
 
-* POST Method ::  
+* POST Method ::  `(inTerminal)`
 
    `curl -X POST -H "Content-Type: application/json" -d "{\"text\":\"apple\"}" "http://127.0.0.1:8000/items"`
 
